@@ -1,0 +1,14 @@
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\bin\Debug\net8.0\Estacionamento-project.exe
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\bin\Debug\net8.0\Estacionamento-project.deps.json
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\bin\Debug\net8.0\Estacionamento-project.runtimeconfig.json
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\bin\Debug\net8.0\Estacionamento-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\bin\Debug\net8.0\Estacionamento-project.pdb
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\Estacionamento-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\Estacionamento-project.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\Estacionamento-project.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\Estacionamento-project.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\Estacionamento-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\refint\Estacionamento-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\Estacionamento-project.pdb
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\Estacionamento-project.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Estacionamento-project\obj\Debug\net8.0\ref\Estacionamento-project.dll
